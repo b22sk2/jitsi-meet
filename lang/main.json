@@ -13,7 +13,7 @@
         "footerText": "Dialing out is disabled.",
         "googleEmail": "Google Email",
         "inviteMoreHeader": "Та өрөөнд ганцаараа байна.",
-        "inviteMoreMailSubject": "Join {{appName}} meeting",
+        "inviteMoreMailSubject": "{{appName}} өрөөнд орох",
         "inviteMorePrompt": "Хүн урих.",
         "linkCopied": "Link copied to clipboard",
         "loading": "Searching for people and phone numbers",
@@ -29,14 +29,14 @@
         "shareLink": "Share the meeting link to invite others",
         "shareStream": "Share the live streaming link",
         "sip": "SIP: {{address}}",
-        "telephone": "Telephone: {{number}}",
-        "title": "Invite people to this meeting",
+        "telephone": "Утас: {{number}}",
+        "title": "Уулзалтанд хүн урих",
         "yahooEmail": "Yahoo Email"
     },
     "audioDevices": {
         "bluetooth": "Bluetooth",
         "headphones": "Headphones",
-        "phone": "Phone",
+        "phone": "Утас",
         "speaker": "Speaker",
         "none": "No audio devices available"
     },
@@ -44,29 +44,29 @@
         "audioOnly": "Low bandwidth"
     },
     "calendarSync": {
-        "addMeetingURL": "Add a meeting link",
+        "addMeetingURL": "Уулзалтын линк нэмэх",
         "confirmAddLink": "Do you want to add a Jitsi link to this event?",
         "error": {
             "appConfiguration": "Calendar integration is not properly configured.",
             "generic": "An error has occurred. Please check your calendar settings or try refreshing the calendar.",
             "notSignedIn": "An error occurred while authenticating to see calendar events. Please check your calendar settings and try logging in again."
         },
-        "join": "Join",
-        "joinTooltip": "Join the meeting",
-        "nextMeeting": "next meeting",
-        "noEvents": "There are no upcoming events scheduled.",
+        "join": "Нэгдэх",
+        "joinTooltip": "Уулзалтанд нэгдэх",
+        "nextMeeting": "Дараанийн уулазалт",
+        "noEvents": "Төлөвлөсөн уулзалт байхгүй байна.",
         "ongoingMeeting": "ongoing meeting",
         "permissionButton": "Open settings",
         "permissionMessage": "The Calendar permission is required to see your meetings in the app.",
         "refresh": "Refresh calendar",
-        "today": "Today"
+        "today": "Өнөөдөр"
     },
     "chat": {
-        "enter": "Enter chat room",
+        "enter": "Чатанд орох",
         "error": "Error: your message was not sent. Reason: {{error}}",
-        "fieldPlaceHolder": "Type your message here",
-        "messagebox": "Type a message",
-        "messageTo": "Private message to {{recipient}}",
+        "fieldPlaceHolder": "Мессежээ энд бичнэ үү ",
+        "messagebox": "Мессеж бичих",
+        "messageTo": "Хувийн {{recipient}} руу явуулах",
         "noMessagesMessage": "There are no messages in the meeting yet. Start a conversation here!",
         "nickname": {
             "popover": "Choose a nickname",
@@ -118,11 +118,11 @@
         "more": "Show more",
         "packetloss": "Packet loss:",
         "quality": {
-            "good": "Good",
-            "inactive": "Inactive",
-            "lost": "Lost",
+            "good": "Сайн",
+            "inactive": "Идэвхигүй",
+            "lost": "Тасарсан",
             "nonoptimal": "Nonoptimal",
-            "poor": "Poor"
+            "poor": "Маш муу"
         },
         "remoteaddress": "Remote address:",
         "remoteaddress_plural": "Remote addresses:",
