@@ -22,7 +22,7 @@ var interfaceConfig = {
      * Note: this mode is experimental and subject to breakage.
      */
     AUTO_PIN_LATEST_SCREEN_SHARE: 'remote-only',
-    BRAND_WATERMARK_LINK: 'https://www.unitel.mn/img/logo.svg',
+    BRAND_WATERMARK_LINK: 'imagees/watermark.svg',
 
     CLOSE_PAGE_GUEST_HINT: false, // A html text to be shown to guests on the close page, false disables it
     /**
@@ -53,9 +53,9 @@ var interfaceConfig = {
 
     DEFAULT_BACKGROUND: '#474747',
     DEFAULT_LOCAL_DISPLAY_NAME: 'me',
-    DEFAULT_LOGO_URL: 'https://www.unitel.mn/img/logo.svg',
+    DEFAULT_LOGO_URL: 'images/watermark.svg',
     DEFAULT_REMOTE_DISPLAY_NAME: 'Шинэ өрөө',
-    DEFAULT_WELCOME_PAGE_LOGO_URL: 'https://www.unitel.mn/img/logo.svg',
+    DEFAULT_WELCOME_PAGE_LOGO_URL: 'images/watermarks.svg',
 
     DISABLE_DOMINANT_SPEAKER_INDICATOR: false,
 
